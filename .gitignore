@@ -1,0 +1,14 @@
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.agents/
+.test/
+*.db
+.pytest_cache/
+project_specs.*.md
